@@ -2,7 +2,7 @@ import styles from '../styles/home.module.scss'
 
 const Home = () => {
   return (
-    <h1 className={styles.title}>
+    <h1>
       Hello <span>World</span>
     </h1>
   )
